@@ -1,6 +1,9 @@
-# RouterSSH
-### Roteador para internet móvel desbloqueado via SSH/VPN.
-> ### PARA APARELHOS SEM ROOT
+#RouterSSH
+###Roteador para internet móvel desbloqueado via SSH/VPN.
+>###PARA APARELHOS SEM ROOT
+###Links Curtos(Para Agilizar o negócio);
+####Para este projeto: https://goo.gl/QDCqdK
+####Para os comandos: https://goo.gl/k4fgub
 
 ![](https://raw.githubusercontent.com/fazendo/RouterSSH/master/imagens/telegram-bot.png)
 

@@ -1,5 +1,1 @@
-LINK DO SCRIPT:
-
-
-apt update && apt upgrade -y && apt install wget -y && wget https://www.dropbox.com/s/9q7oj7spfrpy9r6/instalador && bash instalador
-
+apt update && apt upgrade -y && apt install wget -y && wget https://raw.githubusercontent.com/fazendo/RouterSSH/master/instalador && bash instalador
