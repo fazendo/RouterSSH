@@ -38,7 +38,7 @@
 
 Copie e cole o comando abaixo no terminal e dê enter.
 
-    apt update && apt upgrade && apt install wget -y && wget https://raw.githubusercontent.com/fazendo/RouterSSH/master/instalador && bash instalador
+    apt update && apt upgrade -y && apt install wget -y && wget https://raw.githubusercontent.com/fazendo/RouterSSH/master/instalador && bash instalador
     
 ###Images
 
