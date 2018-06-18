@@ -2,7 +2,7 @@
 ### Roteador para internet móvel desbloqueado via SSH/VPN.
 > ### PARA APARELHOS SEM ROOT
 
-![](https://raw.githubusercontent.com/fazendo/RouterSSH/master/imagens/developer.png)
+![](https://raw.githubusercontent.com/fazendo/RouterSSH/master/imagens/telegram-bot.png)
 
 ![](https://img.shields.io/github/stars/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/forks/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/tag/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/release/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/issues/fazendo/RouterSSH.svg)
 
