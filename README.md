@@ -1,9 +1,11 @@
 # RouterSSH
 ### Roteador para internet móvel desbloqueado via SSH/VPN.
 > ### PARA APARELHOS SEM ROOT
+
 ![](https://fazendo.github.io/RouterSSH/developer.png)
 
 ![](https://img.shields.io/github/stars/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/forks/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/tag/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/release/fazendo/RouterSSH.svg) ![](https://img.shields.io/github/issues/fazendo/RouterSSH.svg)
+
 ####Creditos
  - @Marlyson33 (Telegram)
  - GRUPO DAS PAYLOADS (Telegram)
@@ -39,6 +41,7 @@ Copie e cole o comando abaixo no terminal e dê enter.
     apt update && apt upgrade && apt install wget -y && wget https://raw.githubusercontent.com/fazendo/RouterSSH/master/instalador && bash instalador
     
 ###Images
+
 Nós Fazemos por você：
 [![](https://fazendo.github.io/RouterSSH/developer.png)]
 > Tamo Junto
