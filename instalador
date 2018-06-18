@@ -1,0 +1,24 @@
+#!/bin/bash
+local=$(pwd)
+rm -rf $local/instalador
+rm -rf /data/data/com.termux/files/home/instalador
+cd /data/data/com.termux/files/home
+rm -rf /data/data/com.termux/files/home/davy.pyc
+rm -rf /data/data/com.termux/files/home/menu.pyc
+rm -rf /data/data/com.termux/files/usr/etc/routec.pyc
+rm -rf /data/data/com.termux/files/home/routec.pyc
+rm -rf /data/data/com.termux/files/home/com.pyc
+rm -rf /data/data/com.termux/files/home/com.pyc.1
+
+
+apt upgrade -y && apt update -y && apt install wget -y && apt install python -y && apt install python2 -y && apt install bc -y && apt install ncurses-utils -y && wget https://raw.githubusercontent.com/fazendo/RouterSSH/master/menu.pyc && wget -O /data/data/com.termux/files/usr/etc/routec.pyc https://raw.githubusercontent.com/fazendo/RouterSSH/master/routec.pyc && wget https://raw.githubusercontent.com/fazendo/RouterSSH/master/com.pyc
+clear
+v="\033[0;31m"
+b="\033[1;37m"
+echo -e "\033[0;34m----------------------------------------------\033[01;37m"
+echo ""
+echo -e [*] "\033[01;32mQuando for executar o script na segunda vez basta voce entrar no terminal ( Termux ) e digitar o comando\033[01;37m\033[01;31m(( python menu.pyc ))\033[01;37m!"
+echo -e "\033[0;34m----------------------------------------------\033[01;37m"
+sleep 15
+clear
+python menu.pyc
